@@ -1,11 +1,3 @@
 console.log("Hello World");
 console.log("Hey Coding Gurus! " + "Time for some work");
-let found: boolean = true;
-let studentGrade: number = 88.6;
-let firstName: string = "Anup";
-let lastName: string = "Kumar";
 
-console.log(found);
-console.log("The grade is: " + studentGrade);
-//console.log("Hi " + firstName + " " + lastName);
-console.log(`Hi ${firstName} ${lastName}`);
